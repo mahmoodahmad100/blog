@@ -1,6 +1,6 @@
 # Blog
 
-## this is blog
+this is simple blog that I made using laravel from this tutorial (How to Build a Blog with Laravel) https://www.youtube.com/playlist?list=PLwAKR305CRO-Q90J---jXVzbOd4CDRbVx
 
 
 ### notice that:
