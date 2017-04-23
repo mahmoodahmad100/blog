@@ -10,3 +10,6 @@ this is simple blog that I made using laravel from this tutorial [How to Build a
 
 * Open the terminal or command prompt and navigate to the project directory and run `php artisan migrate`
 
+### technologies:
+
+
