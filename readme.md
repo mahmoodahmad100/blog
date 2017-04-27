@@ -10,6 +10,10 @@ this is simple blog that I made using laravel from this tutorial [How to Build a
 * Laravel 
 * Bootstrap 
 
+### Packages
+* [Intervention Image](https://github.com/Intervention/image)
+* [Purifier](https://github.com/mewebstudio/Purifier)
+
 ### Plugins & Third party resources 
 * [Select2](http://select2.github.io/)
 * [TinyMCE](http://tinymce.com/)
