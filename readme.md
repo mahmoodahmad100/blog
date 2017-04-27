@@ -13,7 +13,7 @@ this is simple blog that I made using laravel from this tutorial [How to Build a
 ### Packages
 * [Intervention Image](https://github.com/Intervention/image)
 * [Purifier](https://github.com/mewebstudio/Purifier)
-
+* [laravelcollective](https://laravelcollective.com/docs/5.3/html)
 ### Plugins & Third party resources 
 * [Select2](http://select2.github.io/)
 * [TinyMCE](http://tinymce.com/)
